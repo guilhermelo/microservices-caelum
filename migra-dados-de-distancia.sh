@@ -1,0 +1,1 @@
+docker-compose exec -T mysql.monolito mysql -uroot -pcaelum123 eats -N -B -e "select r.id, r.cep, r.tipo_de_cozinha_id from restaurante r where r.aprovado = true;" | sed  -E 's/[[:space:]]+/,/g' | docker-compose exec -T mongo.distancia mongoimport --db eats_distancia --collection restaurantes --type csv  --fields=_id,cep,tipoDeCozinhaId
