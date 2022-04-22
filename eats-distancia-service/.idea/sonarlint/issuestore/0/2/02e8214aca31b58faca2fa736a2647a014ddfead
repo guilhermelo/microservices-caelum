@@ -1,0 +1,11 @@
+
+7
+java:S2111<"!Use "BigDecimal.valueOf" instead.(´á½Ş
+`	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+\
+java:S2142E"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+<
+java:S11726"&Remove these unused method parameters.(ÃñÀ•
+B
+java:S1612$",Replace this lambda with a method reference.(ÙÉ½å
+X	java:S125;"<This block of commented-out lines of code should be removed.(í¿¿¦8İòĞù„0

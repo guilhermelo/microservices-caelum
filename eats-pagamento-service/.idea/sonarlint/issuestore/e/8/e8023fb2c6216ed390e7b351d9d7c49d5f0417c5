@@ -1,0 +1,20 @@
+
+w
+java:S1128
+"URemove this unused import 'org.springframework.hateoas.server.mvc.WebMvcLinkBuilder'.(¸Ó­ıøÿÿÿÿ8§Ãè×õ/
+v
+java:S1128"ZRemove this unused import 'org.springframework.hateoas.server.core.ControllerEntityLinks'.(ÓŸÁn8ÀœëÖõ/
+0
+java:S37512"Make this method "public".(ñ½ı
+]
+java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(ñ½ı8üÜåò/
+
+java:S1128	"bRemove this unused import 'org.springframework.hateoas.server.mvc.ControllerLinkRelationProvider'.(©‹´è8ÀœëÖõ/
+0
+java:S3751]"Make this method "public".(ìò»
+^
+java:S1128"ARemove this unused import 'org.springframework.core.io.Resource'.(¹ÒÁ8ø×õ/
+B
+java:S1612^",Replace this lambda with a method reference.(ŒÉéï
+I
+java:S1612K",Replace this lambda with a method reference.(ŒÉéï8¾ûò×õ/
